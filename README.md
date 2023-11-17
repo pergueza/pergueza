@@ -1,6 +1,6 @@
 
 <h1 align="center"><b>Hi , I'm David Pergueza </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&duration=3000&pause=1000&color=A90070&background=55000000&center=true&vCenter=true&random=false&width=435&lines=Machine+Learning;Deep+Learning" alt="Typing SVG" /></a>
 </p>
