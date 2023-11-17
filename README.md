@@ -38,9 +38,6 @@
 
 </p>
 
-<br>
-<br>
-
 -----
 
 <br>
@@ -57,15 +54,9 @@
 
 </a>
 </div>
-
-<br>
-<br>
 <br>
 
 -----
-
-<br>
-<br>
 
 <div align='center'>
 
@@ -73,12 +64,8 @@
 
 </div>
 <br>
-<br>
-<br>
-<br>
 
----
-
+<br>
 <br>
 
 Last Edited on: 17/11/2023
